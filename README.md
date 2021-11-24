@@ -25,12 +25,13 @@ We aim for 3-4 talks per meetup
    * make sure audio is recorded at the source
    * (only in pandemic times): burn data envelope
  * 1day..1week after the event
-   * publish videos
+   * publish videos & tweet video links
  
 # Resources
 
  * https://twitter.com/berlinmeetup
- * https://www.meetup.com/de-DE/Berlin-Ethereum-Meetup/
+ * https://www.meetup.com/de-DE/Berlin-Ethereum-Meetup
+ * https://www.youtube.com/playlist?list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi
 
 # Visual
 
