@@ -31,3 +31,7 @@ We aim for 3-4 talks per meetup
 
  * https://twitter.com/berlinmeetup
  * https://www.meetup.com/de-DE/Berlin-Ethereum-Meetup/
+
+# Visual
+
+![meetup_11_2021](images/november_2021_0.jpeg)
