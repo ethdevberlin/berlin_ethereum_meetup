@@ -13,7 +13,7 @@ We aim for 3-4 talks per meetup
  * init: select a concrete date for the next event
  * 2-3 weeks before the event:
    * contact presenters on shortlist (see all issues of the milestone for the event)
-   * organize camera / cameraman
+   * organize camera & define camer-operator
    * define moderator
  * 1 week pew event: 
    * finalize and confirm with speakers
